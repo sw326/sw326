@@ -1,14 +1,11 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:3498db,100:8e44ad&height=200&section=header&text=SeoungWoo%20Kim&fontSize=90" />
 
-<h1 style="font-size: 3em; padding: 20px; background-color: #6BEC62; color: white; border-radius: 10px;">
-  SeoungWoo Kim
-</h1>
+<h2>:sparkles:Introduction</h2>
 
-<h2>Introduction</h2>
+<p>급변하는 시대의 흐름과 함께하고 싶은 개발자</p>
 
-<p>임시 소개.</p>
-
-<h2>Tech Stacks</h2>
+<h2>:wrench:Tech Stacks</h2>
 
 <p>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -27,7 +24,7 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-<h2>GitHub Stats</h2>
+<h2>:signal_strength:GitHub Stats</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=sw326&show_icons=true&theme=radical" alt="sw326's GitHub stats" />
 
