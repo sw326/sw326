@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 style="font-size: 3em; padding: 20px; background-color: #4a5d5e; color: white; border-radius: 10px;">
+<h1 style="font-size: 3em; padding: 20px; background-color: #6BEC62; color: white; border-radius: 10px;">
   SeoungWoo Kim
 </h1>
 
