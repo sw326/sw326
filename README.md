@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:3498db,100:8e44ad&height=200&section=header&text=SeoungWoo%20Kim&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:98fb98,100:add8e6&height=150&section=header&text=SeoungWoo%20Kim&fontSize=90" />
 
 <h2>:sparkles:Introduction</h2>
 
