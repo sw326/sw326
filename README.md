@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:98fb98,100:add8e6&height=150&section=header&text=SeoungWoo%20Kim&fontSize=90" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=soft&color=0:98fb98,100:add8e6&height=150&section=header&text=SeoungWoo%20Kim&fontSize=90" /> -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=SeoungWoo%20Kim&fontSize=90" />
 
 <h2>:wrench:Tech Stacks</h2>
 
