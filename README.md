@@ -63,11 +63,11 @@
 ### 📚 Legacy
 
 **[LearnPick](https://github.com/LearnPickers/LearnPick)** — 강의 예약 신청 플랫폼
-> 강의 예약·결제·영상 스트리밍·수강 진행도 추적 기능을 갖춘 교육 플랫폼. 풀스택 전체 개발.
+> 강의 예약·결제·영상 스트리밍·수강 진행도 추적 기능을 갖춘 교육 플랫폼.
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-**[깔끔한방](https://github.com/projectcleanroom)** — 청소 중개 플랫폼 _(첫 번째 프로젝트)_
+**[깔끔한방](https://github.com/projectcleanroom)** — 청소 중개 플랫폼
 > 청소 서비스를 중개하는 웹 플랫폼. 프론트엔드 전체 및 결제 기능 담당.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
