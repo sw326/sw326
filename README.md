@@ -48,7 +48,7 @@
 
 ### 🌱 Personal
 
-**[Chumji Finance](https://chumji-finance.vercel.app)** — 실시간 금융 대시보드 · [repo](https://github.com/sw326/financial-dashboard)
+**[Financail Dashboard](https://chumji-finance.vercel.app)** — 실시간 금융 대시보드 · [repo](https://github.com/sw326/financial-dashboard)
 > 주식·ETF·코인 실시간 시세, 부동산 실거래가, AI 금융 어시스턴트를 통합한 대시보드.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
