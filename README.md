@@ -39,8 +39,6 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![AWS](https://img.shields.io/badge/AWS_ECS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
----
-
 **MyAide** — PT·트레이너 관리 플랫폼
 > 트레이너와 회원을 연결하는 모바일 앱. 스케줄 관리, 회원 관리, JWT 기반 인증 구현.
 
@@ -50,28 +48,26 @@
 
 ### 🌱 Personal
 
-**[💹 첨지 파이낸스](https://chumji-finance.vercel.app)** — 실시간 금융 대시보드 `[` [repo](https://github.com/sw326/financial-dashboard) `]`
+**[Chumji Finance](https://chumji-finance.vercel.app)** — 실시간 금융 대시보드 · [repo](https://github.com/sw326/financial-dashboard)
 > 주식·ETF·코인 실시간 시세, 부동산 실거래가, AI 금융 어시스턴트를 통합한 대시보드.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
----
-
-**[🎓 요거티 (YogurT)](https://github.com/CJ-YogurT-README)** — AI 디지털 교과서 클론
+**[YogurT](https://github.com/CJ-YogurT-README)** — AI 디지털 교과서 클론
 > 천재교육의 AI 디지털 교과서(AIDT) 서비스를 클론 코딩한 프로젝트.
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ---
 
 ### 📚 Legacy
 
-**[📚 LearnPick](https://github.com/LearnPickers/LearnPick)** — 강의 예약 신청 플랫폼
+**[LearnPick](https://github.com/LearnPickers/LearnPick)** — 강의 예약 신청 플랫폼
 > 강의 예약·결제·영상 스트리밍·수강 진행도 추적 기능을 갖춘 교육 플랫폼. 풀스택 전체 개발.
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
----
-
-**[🧹 깔끔한방](https://github.com/projectcleanroom)** — 청소 중개 플랫폼 _(첫 번째 프로젝트)_
+**[깔끔한방](https://github.com/projectcleanroom)** — 청소 중개 플랫폼 _(첫 번째 프로젝트)_
 > 청소 서비스를 중개하는 웹 플랫폼. 프론트엔드 전체 및 결제 기능 담당.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
