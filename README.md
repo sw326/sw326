@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Sungwoo%20Kim&fontSize=72&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Automation&descAlignY=58&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Sungwoo%20Kim&fontSize=72&fontAlignY=38" />
 
 ## 👋 About Me
 
